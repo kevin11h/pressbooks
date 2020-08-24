@@ -38,7 +38,7 @@
 	<rule ref="Security.BadFunctions.EasyXSS">
 		<properties>
 			<!-- Comment out to follow global ParanoiaMode -->
-			<property name="forceParanoia" value="1"/>
+<!--			<property name="forceParanoia" value="1"/>-->
 		</properties>
 	</rule>
 	<rule ref="Security.BadFunctions.ErrorHandling"/>
